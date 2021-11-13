@@ -21,6 +21,16 @@ textarea{
   border-bottom: 10px solid black;
 }
 
+/* added footer */
+footer{
+  position: sticky;
+  height: 10px;
+  bottom: 0px;
+  background-color: white;
+  border-top: solid black 1px;
+  margin-bottom: 20px;
+}
+
 .description{
   white-space: pre-wrap;
 }
